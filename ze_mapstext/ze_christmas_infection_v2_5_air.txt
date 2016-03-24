@@ -42,7 +42,7 @@
 	}
 	"* Whirpool summoner has been picked up. Press +USE (E) to summon*"
 	{
-		"chi"		"** **"
+		"chi"		"**龙卷风已被拾起 按'E'来召唤一个龙卷风 **"
 	}
 	"** Snowball launcher has been picked up. Press +USE (E) to launch a snowball. **"
 	{
