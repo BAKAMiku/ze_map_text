@@ -2,110 +2,110 @@
 {
 	"***Dificulty I***"
 	{
-		"chi"		"** **"
+		"chi"		"*难度等级 简单 **"
 	}
 	"* * Break the iron planks to enter the doors! * *"
 	{
-		"chi"		"** **"
+		"chi"		"**打碎钢板以进入大门 **"
 	}
 	"* * * Zombie Shield Activated in 20 Seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸防御护盾将在20秒后打开 **"
 	}
 	"* * * The Gate Door Will Open in 5 Seconds! * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在5秒后打开 **"
 	}
 	"* * Zombie Shield Activated! * *"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸防御护盾打开 **"
 	}
 	"* * * Zombie Shield Disable in 20 Seconds! * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸防御护盾将在20秒后关闭 **"
 	}
 	"* * * Zombie Shield Disabled! * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸防御护盾关闭 **"
 	}
 	"* * * The Water is Electric so dont swim! * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**注意!水中处于通电状态 请勿下海 **"
 	}
 	"* * * Get on the Train! * * *"
 	{
-		"chi"		"** **"
+		"chi"		"*快上电车 **"
 	}
 	"* * * Train is leaving in 10 seconds! * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**电车将在20秒后启动 **"
 	}
 	"* * The Electric Water will be disabled in 30 seconds! * *"
 	{
-		"chi"		"** **"
+		"chi"		"**电源将在30秒后关闭 **"
 	}
 	"* * * Get up on the rescue spot! * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**爬上救援地点! **"
 	}
 	"* * Press the Button to charge the Teleport! * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**按下按钮以激活传送门 **"
 	}
 	"* * * Electric Water is Disabled * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**水中通电状态已结束 可以下海 **"
 	}
 	"* * * Teleport is Charged in 20 Seconds! * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**传送门将在20秒后打开 **"
 	}
 	"* * * Break the DOOR to Enter! * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**打碎门! **"
 	}
 	"* * * Run to the Safe Room! * * *"
 	{
-		"chi"		"** **"
-	}
+		"chi"		"**跑向安全屋! **"
+	
 	"* * * LAST DOOR CLOSING IN 20 SECONDS! * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**最后的大门将在20秒后关闭 **"
 	}
 	"* * * Zombie Nervegas Activated in 10 Seconds! * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸神经毒气将在10秒后释放 **"
 	}
 	"***Map ported by Et3rnity***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图移植 Et3rnity 翻译BAKA_Miku **"
 	}
 	"***Next difficulty II***"
 	{
-		"chi"		"** **"
+		"chi"		"**下一难度 普通 **"
 	}
 	"* * * LAST DOOR CLOSING IN 30 SECONDS! * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**最后的大门将在30秒后关闭 **"
 	}
 	"***Dificulty II***"
 	{
-		"chi"		"** **"
+		"chi"		"**难度等级 普通 **"
 	}
 	"* * * The Gate Door Will Open in 10 Seconds! * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在10秒后打开 **"
 	}
 	"* * * Zombie Shield Disable in 10 Seconds! * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸防御护盾将在10秒后关闭 **"
 	}
 	"* * * Train is leaving in 15 seconds! * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**电车将在15秒后启动 **"
 	}
 	"* * * Teleport is Charged in 30 Seconds! * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**传送门将在30秒后打开 **"
 	}
 }
